@@ -1,7 +1,7 @@
 ### Bienvenidos a mi espacio Digital 👋💻🔐
+![](Hnet-image.gif)
 Sigueme en mi Instagram! https://instagram.com/ro.techuy?igshid=1dwqqorrjws5q
-![GitHub Logo](/download/Hnet-image.gif)
-Format: ![Alt Text](url)
+
 
 <!--
 **Ro-TechUY/Ro-TechUY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
